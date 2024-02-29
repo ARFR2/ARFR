@@ -54,8 +54,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/63472358/218491075-3b15596b-b735-4cee-9f41-a6d7a4bb9d13.png" width="100" title="COMPTIA-NETWORK">
   <img src="https://user-images.githubusercontent.com/63472358/218493672-cc35b4d2-ee44-4851-9f50-b491dd6a4929.png" width="100" title="CCNA">
   <img src="https://user-images.githubusercontent.com/63472358/218494658-15ab5ab0-52ca-4409-9583-3df4c77f325a.png" width="100" title="MTCNA">
-  <img src="https://github.com/Fasihi-Rad/Fasihi-Rad/assets/60557634/397e7a46-2799-44f7-9891-c0e8680be54f" width="100" title="MTCWE">
-   
+  <img src="https://github.com/Fasihi-Rad/Fasihi-Rad/assets/60557634/c11e63bd-31ed-4a92-b7fb-55e8ca9e1fbf" width="100" title="MTCWE">
 </p>
 
 <h2 align="left">Number of My Profile Visitors</h2>
